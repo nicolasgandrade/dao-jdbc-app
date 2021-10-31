@@ -1,11 +1,11 @@
 package application;
 
-import models.entities.Department;
-import models.entities.Seller;
+import model.entities.Department;
+import model.entities.Seller;
 
 import java.util.Date;
 
-public class Program {
+    public class Program {
 
     public static void main(String[] args) {
 
