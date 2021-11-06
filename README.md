@@ -1,6 +1,13 @@
 # Data Access Object App
 
-Data Access Object App is a small project created to study the DAO project pattern. Basicly, the program make the basics SQL operations using JDBC (with mysqlConnector). The application can insert, delete, update and find data.
+![Java11](https://img.shields.io/badge/Java-11-orange)
+![MySql](https://img.shields.io/badge/MySQL-8.0.27-blue)
+![JDBC](https://img.shields.io/badge/-JDBC-yellowgreen)
+![DAO](https://img.shields.io/badge/DAO-pattern-red)
+![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)
+
+
+Data Access Object App is a small project created to study the DAO project pattern. Basically, the program make the basics SQL operations using JDBC (with mysqlConnector). The application can insert, delete, update and find data.
 
 ## 🔄 Database Structure
 
